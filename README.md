@@ -2,6 +2,10 @@
 
 Este é um clone do famoso jogo Flappy Bird, desenvolvido usando HTML, CSS e JavaScript. O objetivo é fornecer uma versão simples e divertida do jogo para fins de aprendizado e diversão.
 
+<div align="center">
+<img src="https://github.com/danielfelix45/App-FlappyBird/assets/81331726/b3c25ee5-f7c2-4ad7-a1e0-4fe7720544df" width="700px" />
+</div>
+
 ### Como Jogar
 
 1 - **Acesse o Jogo:** Abra o arquivo index.html em um navegador da web para iniciar o jogo.
